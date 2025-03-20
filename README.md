@@ -9,3 +9,4 @@ Setup Instructions: just press play idk ¯\_(ツ)_/¯
 
 Reflection: 
 The hardest part for me was just to find the movement script, since I'm not really used to editing code that I haven't personally made. After that it was pretty simple to add the double jump and dash mechanics, since I've had a lot of experiences with Unity and C# in the past already.
+ 
